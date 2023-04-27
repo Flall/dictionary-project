@@ -14,7 +14,7 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by
+            Coded by{" "}
             <a
               href="https://www.linkedin.com/in/francescalalli/"
               target="_blank"
@@ -23,7 +23,7 @@ export default function App() {
             >
               Francesca Lalli
             </a>
-            , open-sourced on
+            , open-sourced on{" "}
             <a
               href="https://github.com/Flall/dictionary-project"
               target="_blank"
@@ -31,8 +31,8 @@ export default function App() {
               rel="noreferrer"
             >
               GitHub
-            </a>
-            and hosted on
+            </a>{" "}
+            and hosted on{" "}
             <a
               href="https://dynamic-hummingbird-b6c74c.netlify.app"
               target="_blank"
